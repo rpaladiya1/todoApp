@@ -164,3 +164,7 @@ background-image: url('../img/button_delete.png');
 width: 64px;
 height: 32px;
 }
+
+.clear {
+    clear:both !important;
+}
